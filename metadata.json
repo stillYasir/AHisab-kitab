@@ -1,0 +1,5 @@
+{
+  "name": "Hisaab Kitaab",
+  "description": "A comprehensive medical invoice management system with automatic calculations, dark mode, and PDF export capabilities.",
+  "requestFramePermissions": []
+}
